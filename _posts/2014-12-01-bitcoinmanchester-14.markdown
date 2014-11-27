@@ -1,6 +1,6 @@
 ---
 layout: meetings
-title: Gov.uk Call for Info, Bearwhale Raffle, Predictions for 2015
+title: Gov.uk Call for Information, Bearwhale Poster Raffle, Predictions for 2015
 categories: meetings
 time: 7:00pm to 9:00pm
 location: MadLab
@@ -14,7 +14,7 @@ The UK Government has started an open consultation titled [Digital currencies: C
 
 We will run through the questions in turn and collect ideas from the group. We will be compiling and submitting a response on behalf of Bitcoin Manchester to represent the views of the group. (If anyone would like to submit their own answers you are still encouraged!) We will submit our finished response on 3rd Dec.
 
-## Bearwhale poster raffle
+## Bearwhale Poster Raffle
 
 Some of you may remember earlier this year the story of the [Bitcoin Bearwhale][bearwhale], when a huge 30,000 bitcoin sell order appeared on Bitstamp.
 
