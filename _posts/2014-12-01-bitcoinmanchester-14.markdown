@@ -20,7 +20,7 @@ Some of you may remember earlier this year the story of the [Bitcoin Bearwhale][
 
 This story rapidly became part of Bitcoin lore, and a number of artists started designing commemorative pieces. One of these was Billy Mabry with his illustration of [The Bitcoin Bearwhale][bearwhale-mabry].
 
-We have a full-size print of this avaiable to win! See image below (sorry for the poor lighting!)...
+We have a full-size print of this available to win! See image below (sorry for the poor lighting!)...
 
 <img src="/img/post/bearwhale.jpg" width="512" height="348">
 
