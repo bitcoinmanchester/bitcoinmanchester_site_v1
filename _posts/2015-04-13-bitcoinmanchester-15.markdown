@@ -6,7 +6,7 @@ time: 7:00pm to 9:00pm
 location: MadLab
 ---
 
-We're back in the newly refurbished [Manchester Digital Laboratory][madlab-event] this month for our first meetup of 2015. This month we have two speakers on the theme of Bitcoin in politics: Gulnar Hasnain of the Green Party and Cristian Chesha of the Pirate Party. They will each give a short talk, then they will both sit on a panel where you can ask them questions together.
+We're back in the newly refurbished [Manchester Digital Laboratory][madlab-event] this month for our first meetup of 2015. This month we have two speakers on the theme of Bitcoin in politics: **Gulnar Hasnain of the Green Party** and **Cristian Chesha of the Pirate Party**. They will each give a short talk, then they will both sit on a panel where you can ask them questions together.
 
 ## Gulnar Hasnain – Green Party
 
