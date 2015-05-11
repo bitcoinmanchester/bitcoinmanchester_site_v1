@@ -13,5 +13,5 @@ The first hour or so we'll spend in MadLab eating pizza suppled by one of the Bi
 Afterwards we'll go to [Common][common] across the road for liquid refreshment and more Bitcoin talk (ranting about the election is also acceptable here).
 
 [takeaway]: http://www.takeaway.com/
-[madlab-event]: http://madlab.org.uk/content/bitcoin-manchester-11-05-2015/
+[madlab-event]: http://madlab.org.uk/events/bitcoin-manchester-may-2015/
 [common]: http://www.aplacecalledcommon.co.uk/
