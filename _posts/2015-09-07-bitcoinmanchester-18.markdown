@@ -26,6 +26,6 @@ As always we'll have sponsored food during the break. Your monthly pizza fix wil
 
 [madlab-event]: http://madlab.org.uk/events/bitcoin-manchester-september-2015/
 [cryptohosting]: https://cryptocloudhosting.org/
-[@CryptoCloudHost]: https://twitter.com/CryptoCloudHost
-[@Crypto_giveaway]: https://twitter.com/Crypto_giveaway
+[cryptocloud]: https://twitter.com/CryptoCloudHost
+[cryptogiveaway]: https://twitter.com/Crypto_giveaway
 [takeaway]: http://www.takeaway.com/
