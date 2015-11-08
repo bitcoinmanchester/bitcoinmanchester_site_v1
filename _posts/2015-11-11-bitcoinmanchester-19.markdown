@@ -11,3 +11,4 @@ As there is no talk this month, we're running a social meetup at [Common Bar][co
 Come along and discuss Bitcoin while enjoying the selection of fine beers, wines and ciders!
 
 [common]: http://www.aplacecalledcommon.co.uk/
+[@Hashman100]: https://twitter.com/Hashman100
