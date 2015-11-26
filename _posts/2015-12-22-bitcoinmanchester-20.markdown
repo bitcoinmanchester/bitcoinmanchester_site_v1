@@ -10,7 +10,7 @@ This month is Bitcoin Manchester's Christmas 2015 meetup! We have a talk, pizzaâ
 
 ## Introduction to BitShares with Jonny Bitcoin
 
-Jonathan Harrison aka Jonny Bitcoin aka [@JonnyBitcoin][@JonnyBitcoin], formerly co-founder of [SatoshiPoint][satoshipoint] is talking about BitShares.
+Jonathan Harrison aka Jonny Bitcoin aka [@JonnyBitcoin][@JonnyBitcoin], formerly co-founder of [SatoshiPoint][satoshipoint] (who installed the Bitcoin ATM in CellCity, Manchester) is talking about BitShares.
 
 [BitShares][bitshares] is a decentralised smart contract platform which runs on its own blockchain. It's a decentralised exchange, so users can trade bitcoins, dollars, or other pegged assets, without the risk of getting goxxed. It has some neat features like transferrable named accounts, recurring payments and referral rewards. BitShares features decentralised goverance as stakeholders can direct how income from transaction fees will be spent to improve the infrastructure.
 
@@ -24,7 +24,7 @@ As always we'll have sponsored pizza provided by one of the Bitcoin-accepting [T
 
 There will definitely be pizza; the cake may be a lie.
 
-Finally we'll head to the pub, which of course is our old friend [Common][common] over the road.
+Finally at around 9pm we'll head to the pub, which of course is our old friend [Common][common] over the road.
 
 [@JonnyBitcoin]: https://twitter.com/JonnyBitcoin
 [satoshipoint]: https://satoshipoint.com
