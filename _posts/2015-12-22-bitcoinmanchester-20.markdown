@@ -2,7 +2,7 @@
 layout: meetings
 title: "BitShares"
 categories: meetings
-time: 7:00-9:00pm onwards
+time: 7:00-9:00pm
 location: MadLab
 ---
 
