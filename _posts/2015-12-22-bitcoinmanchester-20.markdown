@@ -1,12 +1,14 @@
 ---
 layout: meetings
-title: "BitShares"
+title: "BitShares & Christmas Party"
 categories: meetings
 time: 7:00-9:00pm
 location: MadLab
 ---
 
 This month is Bitcoin Manchester's Christmas 2015 meetup! We have a talk, pizza… and cake.
+
+**Free ticket/signup**: [Meetup.com event][meetup-event]
 
 ## Introduction to BitShares with Jonny Bitcoin
 
@@ -31,3 +33,4 @@ Finally at around 9pm we'll head to the pub, which of course is our old friend [
 [bitshares]: https://bitshares.org
 [takeaway]: http://www.takeaway.com/
 [common]: http://www.aplacecalledcommon.co.uk
+[meetup-event]: http://www.meetup.com/Bitcoin-Manchester/events/227039202/
