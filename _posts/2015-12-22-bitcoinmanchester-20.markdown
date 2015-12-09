@@ -20,11 +20,9 @@ Jonny will be giving a talk and demo to describe how BitShares works, how it dif
 
 ## Pizza, Cake & Pub
 
-As it's our Christmas meetup we're hoping to have Bitcoin-themed Christmas cake created by our local Manchester baker but it's not 100% confirmed yet. So we're just teasing you for now.
+As it's our Christmas meetup we're going to have Bitcoin-themed Christmas cake created by our local Manchester baker [@crazybakinglady][@crazybakinglady] who runs [There for the Baking][thereforthebaking]. It will be the healthiest cake you've ever eaten *and* taste amazing. **The cake is not a lie!**
 
 As always we'll have sponsored pizza provided by one of the Bitcoin-accepting [Takeaway.com][takeaway] vendors.
-
-There will definitely be pizza; the cake may be a lie.
 
 Finally at around 9pm we'll head to the pub, which of course is our old friend [Common][common] over the road.
 
@@ -34,3 +32,5 @@ Finally at around 9pm we'll head to the pub, which of course is our old friend [
 [takeaway]: http://www.takeaway.com/
 [common]: http://www.aplacecalledcommon.co.uk
 [meetup-event]: http://www.meetup.com/Bitcoin-Manchester/events/227039202/
+[@crazybakinglady]: https://twitter.com/crazybakinglady
+[thereforthebaking]: http://www.thereforthebaking.com
