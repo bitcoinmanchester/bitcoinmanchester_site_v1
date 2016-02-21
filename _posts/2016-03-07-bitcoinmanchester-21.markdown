@@ -18,6 +18,7 @@ As always we'll have sponsored pizza provided by one of the Bitcoin-accepting [T
 
 Finally at around 9pm we'll head to the pub, which of course is our old friend [Common][common] over the road.
 
+
 [@MaaxSan]: https://twitter.com/MaaxSan
 [takeaway]: http://www.takeaway.com/
 [common]: http://www.aplacecalledcommon.co.uk
