@@ -10,7 +10,7 @@ location: MadLab
 
 ## Bitcoin in South-East Asia
 
-For the last four months, Max (group organiser) aka [@MaaxSan][@MaaxSan] has been travelling through South-East Asia, including China, Hong Kong, Japan and South Korea. He has met a number of Bitcoiners on the way. He's going to give information and reviews regarding a number of companies he used to finance his travels through some of the countries. This will include facts and figures to see if traveling with bitcoin really does cut it or if its only a pipedream!
+For the last four months, Max (group organiser) aka [@MaaxSan][@MaaxSan] has been travelling through South-East Asia, including China, Hong Kong, Japan and South Korea. He has met a number of Bitcoiners on the way. He's going to give information and reviews regarding a number of companies he used to finance his travels through some of the countries. This will include facts and figures to see if travelling with bitcoin really does cut it or if it's only a pipedream!
 
 ## Pizza & Pub
 
